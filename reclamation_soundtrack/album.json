@@ -1,0 +1,17 @@
+{
+    "title": "Reclamation Soundtrack",
+    "author": "LupusMechanicus",
+    "date": "2025",
+    "description": "From the Community, To the Community! Created and released by LupusMechanicus.",
+    "album_cover_filename": "albumcover.png",
+    "tracks": [
+      {
+        "filename": "LM_Reclamation_01.opus",
+        "title": "Scavengers",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 80
+      }
+    ]
+}
