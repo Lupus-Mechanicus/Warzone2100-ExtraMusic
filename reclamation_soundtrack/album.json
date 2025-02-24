@@ -12,6 +12,14 @@
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
+      },
+      {
+        "filename": "LM_Reclamation_02.opus",
+        "title": "Coup de Grace",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 120
       }
     ]
 }
