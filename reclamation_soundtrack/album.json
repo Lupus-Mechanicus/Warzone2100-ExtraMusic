@@ -36,6 +36,14 @@
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_05.opus",
+        "title": "Eviction",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
       }
     ]
 }
