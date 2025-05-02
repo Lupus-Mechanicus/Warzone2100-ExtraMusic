@@ -72,7 +72,7 @@
       {
         "filename": "CC_009_TonalDiscrepancy_Bufferzone.opus",
         "title": "Bufferzone",
-        "author": "",
+        "author": "Tonal Discrepancy",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 0
