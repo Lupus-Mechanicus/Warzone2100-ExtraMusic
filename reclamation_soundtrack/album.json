@@ -44,6 +44,14 @@
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_06.opus",
+        "title": "Foundation",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 120
       }
     ]
 }
