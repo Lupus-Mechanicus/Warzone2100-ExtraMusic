@@ -68,6 +68,14 @@
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_09.opus",
+        "title": "Conviction",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
       }
     ]
 }
